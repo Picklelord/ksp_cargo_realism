@@ -1,4 +1,4 @@
-# ksp_cargo_realism
+# KSP Mod Cargo Realism
 This mod for Kerbal Space Program aims to make the cargo volume more accurate and allow for better stacking of items in containers.
 The majority of items have a stack of 20 items, some smaller items have 50, 100 and even 200 if they are small enough!
 
